@@ -1,0 +1,2 @@
+# merchex
+django-merchex
